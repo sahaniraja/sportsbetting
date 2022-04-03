@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/sportsbetting/static/css/main.073c9b0a.css",
+    "main.js": "/sportsbetting/static/js/main.bb7755ee.js",
+    "static/js/787.aaaa8cb3.chunk.js": "/sportsbetting/static/js/787.aaaa8cb3.chunk.js",
+    "static/media/logo.svg": "/sportsbetting/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/sportsbetting/index.html",
+    "main.073c9b0a.css.map": "/sportsbetting/static/css/main.073c9b0a.css.map",
+    "main.bb7755ee.js.map": "/sportsbetting/static/js/main.bb7755ee.js.map",
+    "787.aaaa8cb3.chunk.js.map": "/sportsbetting/static/js/787.aaaa8cb3.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.bb7755ee.js"
+  ]
+}
